@@ -1,10 +1,16 @@
 package main 
+import "fmt"
 
 type person struct {
-	first_name string
-	last_name string 
+	firstName string
+	lastName string 
 }
 
 func main() {
+	//alex := person{firstName: "Alex", 
+	//			   lastName: "Anderson"}
+	//fmt.Println(alex)
+	var alex person 
+	
+	} 
 
-} 
