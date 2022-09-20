@@ -1,6 +1,11 @@
 package main 
 import "fmt"
 
+type contactInfo struct {
+	email string  
+	zip int 
+}
+
 type person struct {
 	firstName string
 	lastName string 
