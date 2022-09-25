@@ -1,1 +1,1 @@
-### structs
+# made for learning go struct 
